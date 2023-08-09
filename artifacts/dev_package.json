@@ -1,0 +1,162 @@
+{
+	"id": "aaaf88da-f7d2-ed11-9f73-000d3aba0713",
+	"createdAt": "2023-04-04T14:49:09.373Z",
+	"createdBy": "abesh@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/CezarStrugariu/demo-plant-maintenance"
+	},
+	"name": "com.neptune-software.maint",
+	"description": "Neptune Software Maintenance",
+	"ver": "23.8.9.636",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "76b57b76-f8d2-ed11-9f73-000d3aba0713",
+			"application": "com_neptune_software_maint_reminders",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "5d2d648b-f8d2-ed11-9f73-000d3aba0713",
+			"application": "com_neptune_software_maint_rss_feed_reader",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "534cdfb4-f8d2-ed11-9f73-000d3aba0713",
+			"application": "com_neptune_software_maint_today",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "47c4c338-f8d2-ed11-9f73-000d3aba0713",
+			"application": "com_neptune_software_maint_hapiness",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "3aa68dc2-f8d2-ed11-9f73-000d3aba0713",
+			"application": "com_neptune_software_maint_todo",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "03224865-f8d2-ed11-9f73-000d3aba0713",
+			"application": "com_neptune_software_maint_happiness",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "fa29db77-ccd3-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Reminder Header"
+		},
+		{
+			"id": "f24bb288-ffd2-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Link Workflow Inbox"
+		},
+		{
+			"id": "efba3e81-fed2-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance To Do"
+		},
+		{
+			"id": "e22b0554-fed2-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance RSS Feed Reader"
+		},
+		{
+			"id": "d843587a-ffd2-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Link Inventory Management"
+		},
+		{
+			"id": "bb7df32e-06d3-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance To Do Header"
+		},
+		{
+			"id": "b9c601ea-cbd3-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Calendar Header"
+		},
+		{
+			"id": "8c69326f-ffd2-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Link BlueWorx"
+		},
+		{
+			"id": "7f3a0f59-ffd2-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Link BlueWorx Admin"
+		},
+		{
+			"id": "3d79f0fc-05d3-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Reminders"
+		},
+		{
+			"id": "1abd52b0-fed2-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Today"
+		},
+		{
+			"id": "070b94c6-05d3-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Quick Links"
+		},
+		{
+			"id": "0181b14b-fdd2-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Happiness"
+		}
+	],
+	"category": [
+		{
+			"id": "d50cd252-00d3-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Good Morning"
+		},
+		{
+			"id": "76ceeea7-ffd2-ed11-9f73-000d3aba0713",
+			"description": null,
+			"name": "Neptune Maintenance Quick Links"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "8c4f6901-fdd2-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance",
+			"description": "Neptune Maintenance"
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

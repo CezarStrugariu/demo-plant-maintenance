@@ -1,0 +1,157 @@
+{
+	"id": "d50cd252-00d3-ed11-9f73-000d3aba0713",
+	"createdAt": "2023-04-04T15:49:47.143Z",
+	"createdBy": "abesh@neptune-software.com",
+	"translation": [],
+	"tilesOrder": [
+		"e22b0554-fed2-ed11-9f73-000d3aba0713",
+		"0181b14b-fdd2-ed11-9f73-000d3aba0713",
+		"b9c601ea-cbd3-ed11-9f73-000d3aba0713",
+		"1abd52b0-fed2-ed11-9f73-000d3aba0713",
+		"070b94c6-05d3-ed11-9f73-000d3aba0713",
+		"fa29db77-ccd3-ed11-9f73-000d3aba0713",
+		"8c69326f-ffd2-ed11-9f73-000d3aba0713",
+		"7f3a0f59-ffd2-ed11-9f73-000d3aba0713",
+		"f24bb288-ffd2-ed11-9f73-000d3aba0713",
+		"d843587a-ffd2-ed11-9f73-000d3aba0713",
+		"3d79f0fc-05d3-ed11-9f73-000d3aba0713",
+		"bb7df32e-06d3-ed11-9f73-000d3aba0713",
+		"efba3e81-fed2-ed11-9f73-000d3aba0713"
+	],
+	"tilegroupsOrder": [],
+	"configMessage": {},
+	"title": "Good Morning, Dude",
+	"subTitle": null,
+	"description": null,
+	"titleAlignment": null,
+	"enableFullScreen": false,
+	"hideHeader": false,
+	"backgroundType": "cards",
+	"backgroundColor": "",
+	"backgroundShade": null,
+	"type": null,
+	"image": null,
+	"icon": null,
+	"sort": null,
+	"inclFav": false,
+	"styleClass": "nepHCMGoodMorning",
+	"enableScroll": false,
+	"enableShadeCalc": false,
+	"numTiles": null,
+	"enableMessage": false,
+	"ver": "23.4.5.2248",
+	"headColor": null,
+	"headTxtClr": null,
+	"subheadTxtClr": null,
+	"headBorderClr": null,
+	"headBorderWidth": null,
+	"imageTablet": null,
+	"imageMobile": null,
+	"imageCover": false,
+	"imageTabletCover": false,
+	"imageMobileCover": false,
+	"imageMobileHeight": null,
+	"imageTabletHeight": null,
+	"imageHeight": null,
+	"name": "Neptune Maintenance Good Morning",
+	"cardContentWidth": null,
+	"cardContentAlign": null,
+	"cardPerRow": null,
+	"cardStyle": null,
+	"cardHeightFit": false,
+	"imagePlacement": null,
+	"imageRepeat": null,
+	"imageSize": null,
+	"imageTabletPlacement": null,
+	"imageTabletRepeat": null,
+	"imageTabletSize": null,
+	"imageMobilePlacement": null,
+	"imageMobileRepeat": null,
+	"imageMobileSize": null,
+	"hideFromMenu": true,
+	"roleTag": null,
+	"cockpitTileGroup": false,
+	"package": "aaaf88da-f7d2-ed11-9f73-000d3aba0713",
+	"roles": [],
+	"tiles": [
+		{
+			"id": "fa29db77-ccd3-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Reminder Header",
+			"title": "Todays Reminders",
+			"ver": "23.4.5.1611"
+		},
+		{
+			"id": "f24bb288-ffd2-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Link Workflow Inbox",
+			"title": "Workflow Inbox",
+			"ver": "23.4.4.1718"
+		},
+		{
+			"id": "efba3e81-fed2-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance To Do",
+			"title": "",
+			"ver": "23.4.4.1536"
+		},
+		{
+			"id": "e22b0554-fed2-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance RSS Feed Reader",
+			"title": "My Oil & Gas RSS Feed",
+			"ver": "23.4.5.2224"
+		},
+		{
+			"id": "d843587a-ffd2-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Link Inventory Management",
+			"title": "Inventory Management",
+			"ver": "23.4.4.173"
+		},
+		{
+			"id": "bb7df32e-06d3-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance To Do Header",
+			"title": "To Do",
+			"ver": "23.4.4.1631"
+		},
+		{
+			"id": "b9c601ea-cbd3-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Calendar Header",
+			"title": "Todays Calendar",
+			"ver": "23.4.5.169"
+		},
+		{
+			"id": "8c69326f-ffd2-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Link BlueWorx",
+			"title": "BlueWorx Inspections",
+			"ver": "23.4.5.1452"
+		},
+		{
+			"id": "7f3a0f59-ffd2-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Link BlueWorx Admin",
+			"title": "BlueWorx Admin",
+			"ver": "23.4.5.1334"
+		},
+		{
+			"id": "3d79f0fc-05d3-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Reminders",
+			"title": "",
+			"ver": "23.4.5.1621"
+		},
+		{
+			"id": "1abd52b0-fed2-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Today",
+			"title": "",
+			"ver": "23.4.5.2225"
+		},
+		{
+			"id": "070b94c6-05d3-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Quick Links",
+			"title": "Quick Links",
+			"ver": "23.4.4.1638"
+		},
+		{
+			"id": "0181b14b-fdd2-ed11-9f73-000d3aba0713",
+			"name": "Neptune Maintenance Happiness",
+			"title": "Happiness",
+			"ver": "23.4.4.1528"
+		}
+	],
+	"tilegroups": []
+}
