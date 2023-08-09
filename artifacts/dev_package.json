@@ -7,7 +7,7 @@
 	},
 	"name": "com.neptune-software.maint",
 	"description": "Neptune Software Maintenance",
-	"ver": "23.8.9.636",
+	"ver": "23.8.9.654",
 	"enableCICD": true,
 	"apps": [
 		{

@@ -5,7 +5,7 @@
 	"extUserRoles": [],
 	"extUserDepartments": [],
 	"catOrder": [
-		"06b25dc4-ffd2-ed11-9f73-000d3aba0713"
+		"b81e627a-8136-ee11-b8f0-002248a2f7be"
 	],
 	"layout": [
 		{
@@ -518,7 +518,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "23.8.3.1453",
+	"ver": "23.8.9.657",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -531,10 +531,10 @@
 	"package": "aaaf88da-f7d2-ed11-9f73-000d3aba0713",
 	"cat": [
 		{
-			"id": "06b25dc4-ffd2-ed11-9f73-000d3aba0713",
-			"name": "Neptune Supplychain",
+			"id": "b81e627a-8136-ee11-b8f0-002248a2f7be",
+			"name": "Neptune Supplychain - PM",
 			"title": "My Dashboard",
-			"ver": "23.4.11.1826"
+			"ver": "23.8.9.653"
 		}
 	]
 }
